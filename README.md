@@ -7,12 +7,14 @@ They say that the humans should all have four properties: strength, intelligence
 
 They want to see if you can make a class that they could use before anything further, so just implement the ```human``` class.
 
-Objectives:
+**Objectives:**
+
 ● Implement packages to namespace your project.
 
 ● Implement inheritance.
 
-Tasks:
+**Tasks:**
+
 ● Create a ```Human``` class
 
 ● Add the ```strength```, ```stealth```, and ```intelligence``` attributes with a default of 3
